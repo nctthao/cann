@@ -8,3 +8,4 @@ chào nhe
 tớ tên là thỏ
 
 hi
+chào ae nhe
